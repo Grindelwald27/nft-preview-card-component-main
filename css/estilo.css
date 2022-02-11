@@ -25,6 +25,11 @@ body{
 	z-index: 0;
 }
 
+#imagem-principal img:hover{
+	background-color: cyan;
+	cursor: pointer;
+}
+
 h3{
 	color: white;
 	margin-left: 16px;
